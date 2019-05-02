@@ -47,7 +47,7 @@ Install and Configure AWS CLI : https://devopsmates.com/install-configure-aws-cl
 
 # Execution and Output :
     python3 regis.py
-   ![alt text](https://ibb.co/Pmy00Bc)
+   ![](https://user-images.githubusercontent.com/22393734/57092049-28138c80-6d28-11e9-8ab6-95c586e6edb0.png)
     python3 marka.py
    ![alt text](https://ibb.co/KsZZ3Q1)
   
