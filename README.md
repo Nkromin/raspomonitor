@@ -41,3 +41,13 @@ As an implementation of the proposed system we will develop an application which
     • Python 3.6+
     • AWS CLI
     • SQLite3
+   
+# Installation
+Install and Configure AWS CLI : https://devopsmates.com/install-configure-aws-cli-amazon-web-services-command-line-interface/
+
+# Execution and Output :
+    python3 regis.py
+    ![alt text](https://ibb.co/Pmy00Bc)
+    python3 marka.py
+    ![alt text](https://ibb.co/KsZZ3Q1)
+  
