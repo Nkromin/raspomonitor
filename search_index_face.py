@@ -4,7 +4,7 @@ import json
 import sqlite3
 from datetime import datetime
 conn = sqlite3.connect('mark.db')
-collection_name = "raspox3"
+collection_name = "ANything_here"
 image_file = str(sys.argv[1])
 now = datetime.now()
 formatted_date = now.strftime('%Y-%m-%d %H:%M:%S')
