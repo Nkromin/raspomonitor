@@ -1,4 +1,4 @@
-'''The Driver code to execute the search_in_thecollection.py file'''
+'''The Driver code to execute the search_in_thecollection.py'''
 import os
 s = "test"
 s1 = s+'.jpg'
