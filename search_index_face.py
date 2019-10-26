@@ -26,3 +26,4 @@ def search_faces_by_image():
     except IndexError:
         print("User not registered, please register first. Contact Dept")
 search_faces_by_image()
+''' module fetches image result + stores into mark.db '''
