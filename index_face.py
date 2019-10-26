@@ -2,7 +2,7 @@ import sys
 import boto3
 client = boto3.client("rekognition")
 def indexFace():
-	'''index_faces indexes stored faces in an image to a collection that has already been created'''
+	'''index_faces indexes stored faces in an image to a collection that has already been created ok '''
 	response = client.index_faces(
 	    CollectionId='put_anything_here', #refer to createcollection.py
 	    Image={
