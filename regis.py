@@ -1,4 +1,4 @@
-'''Driver code for upload_face.py & index_face.py'''
+'''Driver code for upload_face.py & index'''
 import os
 s = input("Enter Roll no")
 s1 = s+'.jpg'
