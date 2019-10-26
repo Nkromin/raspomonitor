@@ -7,4 +7,4 @@ data = open(valo, 'rb')
 s3.Bucket('raspo').put_object(Key=valo, Body=data)
 print("Image Uploaded to Hash(e1.s3)")
 
-
+''' uploads images from local -> s3 '''
